@@ -39,3 +39,4 @@ do{
     k++;
 }while(k<10);   
 
+// do while loop with array
